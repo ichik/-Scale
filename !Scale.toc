@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: !Scale
+## Notes: UI auto-scaling and tweaks
+## Author: ichik (original code by ALZA)
+## Version: 1.0
+
+!Scale.lua
