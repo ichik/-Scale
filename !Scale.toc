@@ -1,4 +1,4 @@
-## Interface: 40000
+## Interface: 40100
 ## Title: !Scale
 ## Notes: UI auto-scaling and tweaks
 ## Author: ichik (original code by ALZA)
